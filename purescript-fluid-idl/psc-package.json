@@ -1,0 +1,15 @@
+{
+    "name": "purescript-fluid-idl",
+    "set": "psc-0.11.7",
+    "source": "https://github.com/purescript/package-sets.git",
+    "depends": [
+        "tuples",
+        "maps",
+        "integers",
+        "proxy",
+        "either",
+        "maybe",
+        "psci-support",
+        "prelude"
+    ]
+}
